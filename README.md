@@ -59,6 +59,4 @@ Users should be able to:
 
 ## Author
 
-- Website - [Priyanshu Sharma](https://portfolio-7dx6.vercel.app/)
-- Mail - [priyanshusharma42v@gmail.com](https://www.priyanshusharma42v@gmail.com)
-- Twitter - [x.com/Priyanshu42v](https://x.com/Priyanshu42v) 
+- Mail - [svansh422@gmail.com](https://www.svansh422@gmail.com)
